@@ -8,11 +8,7 @@ The script fetches the last 3000 days of data from your endpoint, prepares it fo
 
 ## Context-Aware Logic:
 
-- Strategy 1 demonstrates using the market_regime_score as a Safety Filter for classic indicators like RSI.
-
-- Strategy 2 demonstrates using the score as a Confirmation Signal for trend strategies.
-
-- Strategy 3 demonstrates using it as a Risk Management Switch to exit positions during market turbulence.
+- Continuous Re-balancing strategy, based on the current market regime score
 
 ## Extensibility 
 The commented-out strategies provide a "Playground" to explore the value of the API and AI detected market regime.
