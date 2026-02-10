@@ -4,6 +4,8 @@ This Python application demonstrates how a developer would consume your API to b
 
 The script fetches the last 3000 days of data from your endpoint, prepares it for the Lumibot backtester, and provides several strategy templates that leverage the market_regime_score to filter signals and manage risk.
 
+![backtest](images/backtest.png)
+
 ## Context-Aware Logic:
 
 - Strategy 1 demonstrates using the market_regime_score as a Safety Filter for classic indicators like RSI.
