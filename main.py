@@ -10,7 +10,7 @@ from lumibot.strategies.strategy import Strategy
 # =============================================================================
 # CONFIGURATION
 # =============================================================================
-API_KEY = "dfo_QFil3aA4t6cQZPQXU9Ijy2KvRIaPc-N44d_mG9j_4no" # RETIRED KEY :)
+API_KEY = "dfo_xxxxxxxxxxxxxxxx" # Use your API KEY :)
 BASE_URL = "https://api.defitheodds.xyz/v1"
 SYMBOL = "BTC-USD"
 CANDLES = 3000
